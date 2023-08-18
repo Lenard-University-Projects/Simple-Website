@@ -1,0 +1,82 @@
+@charset "utf-8";
+#content {
+	height: auto;
+	width: 960px;
+	background-color: #D2D2D2;
+	position: relative;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	overflow: auto;
+	background-image: url(../boo_images/contentbg.jpg);
+	color: #FFF;
+	font-family: Calibri;
+	display: block;
+}
+#login_form {
+	margin-right: auto;
+	margin-left: auto;
+	width: 250px;
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+}
+#username {
+	margin-top: -15px;
+	background-color: #F0F0F0;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	height: 20px;
+	width: 220px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000;
+	text-align: center;
+}
+#password {
+	margin-top: -15px;
+	background-color: #F0F0F0;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+	height: 20px;
+	width: 220px;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #000;
+	text-align: center;
+}
+#login_button {
+	height: 30px;
+	width: 100px;
+	margin-top: 30px;
+	color: #333;
+	background-color: #093;
+	font-size: 18px;
+	border: hidden;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+#demo_account {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+}

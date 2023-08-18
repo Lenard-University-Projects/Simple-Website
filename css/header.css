@@ -1,0 +1,168 @@
+@charset "utf-8";
+.header {
+	height: auto;
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 0px solid #000;
+	padding-top: 25px;
+	position: relative;
+}
+#navigation {
+	height: auto;
+	width: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 2px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-bottom-color: #0CF;
+	background-color: #1A1A1A;
+	clear: both;
+	float: none;
+}
+
+#top {
+	height: auto;
+	width: auto;
+	border: 0px solid #FFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+#nav_logo {
+	height: auto;
+	width: 45%;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	font-family: Calibri;
+	font-size: 36px;
+	font-style: normal;
+	color: #FFF;
+	text-align: left;
+	margin-top: -57px;
+	padding-left: 40px;
+}
+#logo {
+	height: 128px;
+	width: 128px;
+	margin-left: 30px;
+	margin-top: -35px;
+}
+#login {
+	height: auto;
+	width: auto;
+	position: relative;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	margin-top: -120px;
+}
+
+#username {
+	height: auto;
+	width: 249px;
+	font-family: Calibri;
+	font-size: 16px;
+	font-style: normal;
+	color: #FFF;
+	margin-left: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+#usernamebar {
+	font-family: Calibri;
+	font-size: 14px;
+	font-style: normal;
+	color: #FFF;
+	background-color: #515151;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	height: 20px;
+	width: 130px;
+}
+
+#usericon {
+	height: auto;
+	width: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+#passicon {
+
+
+}
+#password {
+	font-family: Calibri;
+	font-size: 16px;
+	font-style: normal;
+	color: #FFF;
+	height: auto;
+	width: 239px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	margin-left: auto;
+	margin-top: 5px;
+}
+#passwordbar {
+	background-color: #515151;
+	height: 20px;
+	width: 130px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	font-family: Calibri;
+	font-size: 14px;
+	font-style: normal;
+	color: #FFF;
+}
+#choice {
+	font-family: Calibri;
+	font-size: 18px;
+	color: #FFF;
+	float: right;
+	margin-top: 10px;
+	margin-right: 10px;
+}

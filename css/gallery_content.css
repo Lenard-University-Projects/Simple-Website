@@ -1,0 +1,242 @@
+@charset "utf-8";
+.content {
+	height: auto;
+	width: 960px;
+	background-color: #D2D2D2;
+	position: relative;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	overflow: auto;
+	background-image: url(../boo_images/contentbg.jpg);
+	color: #FFF;
+	font-family: Calibri;
+}
+.imgbg {
+	list-style: none;
+	float: left;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 22.5px;
+	height: auto;
+	width: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#recent {
+	height: auto;
+	width: auto;
+	font-family: Calibri;
+	font-size: 20px;
+	color: #FFFFFF;
+	font-style: normal;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	margin-bottom: 5px;
+	margin-top: 25px;
+	padding-bottom: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	font-weight: bold;
+}
+#recent_image {
+	height: auto;
+	width: 940px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 1px solid #646464;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 25px;
+	font-style: normal;
+	color: #333;
+	vertical-align: middle;
+	margin-top: 15px;
+}
+#game_name {
+	height: 30px;
+	width: auto;
+	margin-top: -30px;
+	font-size: 18px;
+	color: #FFF;
+}
+#popular_game_text {
+	font-family: Calibri;
+	font-size: 24px;
+	font-style: normal;
+	color: #FFF;
+	width: auto;
+	margin-top: -30px;
+	text-align: center;
+}
+#add_games {
+	float: right;
+	margin-top: -35px;
+	margin-right: 10px;
+}
+
+#prevseparator {
+	background-color: #F15832;
+	height: 2px;
+	width: 940px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	clear: both;
+	margin-right: auto;
+	margin-left: auto;
+}
+#prevseparator2 {
+	background-color: #F15832;
+	height: 2px;
+	width: 940px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	clear: both;
+	margin-right: auto;
+	margin-left: auto;
+}
+.previous {
+	height: auto;
+	width: 200px;
+	font-family: Calibri;
+	font-size: 20px;
+	color: #FFFFFF;
+	font-style: normal;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	margin-bottom: 5px;
+	margin-top: 25px;
+	padding-bottom: 10px;
+	margin-right: auto;
+	margin-left: 20px;
+	font-weight: bold;
+	float: left;
+}
+.previous_images {
+	font-family: Calibri;
+	font-size: 18px;
+	font-style: normal;
+	color: #FFF;
+	width: auto;
+	height: auto;
+	border: 1px solid #5A5A5A;
+	padding: 0px;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	float: left;
+}
+
+#image {
+	height: auto;
+	width: auto;
+}
+#info {
+	height: auto;
+	width: auto;
+	font-family: Calibri;
+	font-size: 15px;
+	font-style: normal;
+	color: #FFFFFF;
+	border-bottom-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-bottom-color: #5A5A5A;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-left-width: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+#readmore_btn {
+	height: auto;
+	width: auto;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+#addp_game {
+	margin-top: -45px;
+	float: right;
+	margin-right: 10px;
+}
+#add_game {
+	font-family: Calibri;
+	font-size: 18px;
+	color: #FFF;
+	width: 940px;
+	float: left;
+	margin-left: 10px;
+	margin-bottom: 30px;
+}
+.add_games_text {
+	color: #FFF;
+	font-weight: bold;
+	float: left;
+	width: 200px;
+	margin-top: -15px;
+	text-align: center;
+}
+
+#addg_game {
+	margin-top: -45px;
+	float: right;
+	margin-right: 10px;
+}
+#games_table {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+}
+#delete_game {
+	float: right;
+	margin-top: -273px;
+	width: 180px;
+	text-align: right;
+	margin-right: 10px;
+	font-family: Calibri;
+	font-size: 18px;
+}

@@ -1,0 +1,15 @@
+@charset "utf-8";
+button, input[type="submit"], input[type="reset"] {
+	color: #000;
+	background-color: #fed;
+	font-family: Calibri;
+	font-size: 18px;
+	font-weight: bold;
+	border: 1px solid #444444;
+} 
+button, input[type="submit"]:hover {
+	background-color: #0C6;
+} 
+button, input[type="reset"]:hover, input[value="Cancel"]:hover, input[value="Delete"]:hover {
+	background-color: #C83232;
+}

@@ -1,0 +1,62 @@
+@charset "utf-8";
+.content {
+	height: auto;
+	width: 960px;
+	background-color: #D2D2D2;
+	position: relative;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	background-image: url(../boo_images/contentbg.jpg);
+}
+#member_box {
+	height: 70px;
+	width: 920px;
+	margin-top: 20px;
+	margin-left: 20px;
+	text-align: left;
+	border: 1px solid #333;
+}
+#member_image {
+	height: 64px;
+	width: 64px;
+	float: left;
+	margin-top: 3px;
+	margin-left: 3px;
+}
+#member_info {
+	height: 62px;
+	width: 840px;
+	float: left;
+	margin-top: 4px;
+	font-size: 16px;
+	margin-left: 7px;
+	font-family: Calibri;
+	color: #FFF;
+}
+#member_name {
+	background-color: #333;
+	color: #FFF;
+	font-family: Calibri;
+	font-size: 16px;
+	height: auto;
+}
+#steam_icon {
+	float: right;
+	margin-top: -17px;
+	padding-right: 10px;
+}
+#web_icon {
+	float: right;
+	margin-top: -17px;
+	padding-right: 60px;
+}

@@ -1,0 +1,102 @@
+@charset "utf-8";
+.content {
+	height: auto;
+	width: 960px;
+	background-color: #D2D2D2;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 36px;
+	margin-right: auto;
+	margin-left: auto;
+	overflow: auto;
+	position: relative;
+	background-image: url(../boo_images/contentbg.jpg);
+}
+#prevseparator {
+	background-color: #F15832;
+	height: 2px;
+	width: 940px;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 20px;
+}
+#fill_info {
+	height: auto;
+	width: auto;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	font-family: Calibri;
+	font-size: 18px;
+	color: #FFFFFF;
+}
+#register {
+	height: 35px;
+	width: 100px;
+	alignment-adjust: central;
+	margin-left: 350px;
+	margin-top: 10px;
+}
+#aggree_send {
+	padding: 5px;
+	margin-bottom: -20px;
+}
+
+#center {
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+	left: 422px;
+	top: 211px;
+	overflow: auto;
+	position: absolute;
+
+}
+#reset {
+	height: 35px;
+	width: 100px;
+	margin-left: 490px;
+	margin-top: -43px;
+}
+
+
+#info_bars {
+	width: 250px;
+	height: 20px;
+	margin-left: 150px;
+}
+#registration_form {
+	color: #FFFFFF;
+	width: 940px;
+}
+#registration_form input[type="text"],
+#registration_form input[type="password"] {
+	border: 1px solid #ccc;
+	width: 200px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: -20px;
+}
+#registration_form input {
+  display: block;
+  margin-bottom: 8px;
+}
+#registration_form input[type="text"]:focus,
+#registration_form input[type="password"]:focus {
+  background: #F4EDB6;
+}
